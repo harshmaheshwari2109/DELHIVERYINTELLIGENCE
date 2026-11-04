@@ -1,0 +1,9 @@
+metric,value
+raw_rows,1224.0
+duplicate_rows_removed,24.0
+rows_after_dedup,1200.0
+missing_distance_km_before,36.0
+missing_parcel_weight_before,25.0
+sentinel_weight_rows,5.0
+delayed_count,278.0
+delay_rate,0.2317
